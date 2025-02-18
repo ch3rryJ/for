@@ -38,7 +38,7 @@ for(let contador2 = 1; contador2 <= 10; contador2++){
     if (num2 >= 18){
         console.log("VOCÊ É MAIOR DE IDADE")
     }else{
-        console.log("VOCÊ É MAIOR DE IDADE")
+        console.log("VOCÊ É MENOR DE IDADE")
     }
 }
 
